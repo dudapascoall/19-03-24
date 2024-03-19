@@ -8,13 +8,11 @@ const posicaoSuperiorInicial = 70,
     styleAvatar = window.getComputedStyle(imgAvatar),
     txtPixel = document.getElementById("txtPixel");
 
-var posicaoSuperior = 70,
+var posicaoSuperior = 300,
     posicaoEsquerda = 70,
     topAvatar,
     leftAvatar;
     anguloAvatar = 0;
-    tempLeft
-    tempTop
 
 imgAvatar.style.position = "absolute";
 imgAvatar.style.top = posicaoSuperior + "px";
